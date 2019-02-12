@@ -10,11 +10,12 @@ h1{
 }
 
 body{
-  background-color: light-teal;
+  background-color: teal;
 }
 
 ul{
   font-weight: bold;
   font-style: italic;
   text-decoration: underline;
+  color: gold;
 }
