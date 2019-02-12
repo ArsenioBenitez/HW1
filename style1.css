@@ -19,6 +19,6 @@ ul{
   text-decoration: underline;
   color: gold;
 }
-table, th{
+#t1, th{
   borde: 1 px solid black;
 }
