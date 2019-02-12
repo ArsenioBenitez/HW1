@@ -19,7 +19,6 @@ ul{
   text-decoration: underline;
   color: gold;
 }
-th{
-  border-bottom: 2px solid #111111;
-  border-top: 1px solid #999;
+table, th{
+  borde: 1 px solid black;
 }
